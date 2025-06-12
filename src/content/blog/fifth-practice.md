@@ -1,6 +1,6 @@
 ---
 title: '第五次接触（盛最多水的容器）'
-description: '第一道双指针'
+description: '第二道双指针'
 pubDate: 'June 11 2025'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
